@@ -12,3 +12,5 @@ for sklep, towar in zakupy.items():
 print(f'W sumie kupuje {suma} produktow')
 
 print('Skecz Hiszpańska inkwizycja to najlepszy skecz Monty Pythona')
+
+print('Baldurs Gate 3 jest świetne !!!')
