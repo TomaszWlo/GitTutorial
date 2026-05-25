@@ -14,3 +14,5 @@ print(f'W sumie kupuje {suma} produktow')
 print('Skecz Hiszpańska inkwizycja to najlepszy skecz Monty Pythona')
 
 print('Baldurs Gate 3 jest świetne !!!')
+
+Print('Lepiej jest sie zdrowo odrzywiać niż nie zdrowo')
