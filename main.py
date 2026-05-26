@@ -17,6 +17,6 @@ print('Baldurs Gate 3 jest świetne !!!')
 
 print('Lepiej jest sie zdrowo odrzywiać niż nie zdrowo')
 
-
+print('Testuje commit')
 
 
