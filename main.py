@@ -15,4 +15,8 @@ print('Skecz Hiszpańska inkwizycja to najlepszy skecz Monty Pythona')
 
 print('Baldurs Gate 3 jest świetne !!!')
 
-Print('Lepiej jest sie zdrowo odrzywiać niż nie zdrowo')
+print('Lepiej jest sie zdrowo odrzywiać niż nie zdrowo')
+
+
+
+
